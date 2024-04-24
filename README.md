@@ -15,13 +15,13 @@
 
 ## Reference
 [config.json](https://github.com/Lacty/CorneOverlay/blob/main/config.json)<br>
-- window
+- **window**
     - width & height アプリのサイズ
     - alpha 画面透過度
     - allwaysTop `false`にすると他のアプリの下に隠れます
-- keymap
+- **keymap**
     - こちらにキーマップを打ち込みます
-- font
+- **font**
     - フォントの名前やサイズが指定できます
 
 ## Author
