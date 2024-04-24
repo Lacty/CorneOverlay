@@ -10,7 +10,7 @@
 `Tkinter`と`Json`を使用してます
 
 ## Usage
-`Python.exe CorneOverlay.py`<br>
+`> Python.exe CorneOverlay.py`<br>
 *[config.json](https://github.com/Lacty/CorneOverlay/blob/main/config.json)に自身のキーマップを打ち込んでください
 
 ## Reference
